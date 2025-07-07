@@ -15,7 +15,7 @@
     "allowContentAccess": true,
     "userAgentString": "TrapsterApp/2.0"
   },
+  "mainUrl": "https://archerypinoco.fun/",
   "behaviorScriptUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/behavior_script.js",
-  "actionsUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/actions.json",
-  "htmlPageUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/main_page.html"
+  "actionsUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/actions.json"
 }
