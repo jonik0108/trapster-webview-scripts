@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "domStorageEnabled": true,
+    "javaScriptEnabled": true,
+    "useWideViewPort": true,
+    "loadWithOverviewMode": true,
+    "allowFileAccess": true,
+    "javaScriptCanOpenWindowsAutomatically": true,
+    "setSupportMultipleWindows": false,
+    "displayZoomControls": false,
+    "builtInZoomControls": true,
+    "setSupportZoom": true,
+    "pluginState": "ON",
+    "mixedContentMode": 0,
+    "allowContentAccess": true,
+    "userAgentString": "TrapsterApp/2.0"
+  },
+  "behaviorScriptUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/behavior_script.js",
+  "actionsUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/actions.json",
+  "htmlPageUrl": "https://raw.githubusercontent.com/jonik0108/trapster-webview-scripts/main/main_page.html"
+}

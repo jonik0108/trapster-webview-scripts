@@ -1,0 +1,10 @@
+{
+  "onAccept": {
+    "action": "openActivity",
+    "activity": "AndroidLauncher"
+  },
+  "onDecline": {
+    "action": "openActivity",
+    "activity": "AndroidLauncher"
+  }
+}
